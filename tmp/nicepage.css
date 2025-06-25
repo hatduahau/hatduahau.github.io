@@ -46658,7 +46658,7 @@ a.u-link.u-text-hover-color-var:hover {
 .u-header .u-shape-1 {
   width: 97px;
   height: 97px;
-  margin: -97px auto 20px 182px;
+  margin: -111px auto 34px 157px;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
@@ -46666,8 +46666,8 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-header .u-shape-1 {
-    margin-top: -97px;
-    margin-left: 182px;
+    margin-top: -111px;
+    margin-left: 157px;
   }
 }
 
