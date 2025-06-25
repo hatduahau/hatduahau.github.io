@@ -46636,7 +46636,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -32px 0 0 auto;
+  margin: -32px 0 20px auto;
 }
 
 .u-header .u-hamburger-link-1 {
@@ -46654,20 +46654,9 @@ a.u-link.u-text-hover-color-var:hover {
 .u-header .u-nav-2 {
   font-size: 1rem;
 }
-
-.u-header .u-shape-1 {
-  width: 97px;
-  height: 97px;
-  margin: -111px auto 34px 157px;
-}
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     margin-right: 0;
-  }
-
-  .u-header .u-shape-1 {
-    margin-top: -111px;
-    margin-left: 157px;
   }
 }
 
